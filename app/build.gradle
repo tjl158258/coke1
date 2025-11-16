@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.liang.sounder.donzhuo"
+        applicationId "com.liang.sounder.lvbu"
         minSdk 23
         targetSdk 36
         versionCode 1
